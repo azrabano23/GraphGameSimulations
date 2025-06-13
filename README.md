@@ -26,7 +26,7 @@ removeEdge(): Removes a directed flight from one city to another if it exists.
 
 ## 🟩 2. MinecraftLP – Linear Probing Hash Table
 
-This class simulates a Minecraft-style inventory system, where each unique item (e.g., "Diamond", "Pickaxe") is stored in a hash table using linear probing for collision resolution.
+- This class simulates a Minecraft-style inventory system, where each unique item (e.g., "Diamond", "Pickaxe") is stored in a hash table using linear probing for collision resolution.
 
 🔧 Core Features:
 put(): Adds or updates an item’s quantity in the table. Automatically resizes the table when it's half full.
